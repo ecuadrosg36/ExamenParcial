@@ -24,7 +24,7 @@ class MenuActivity : AppCompatActivity() {
             startActivity(intent)
         }
         btnStadiums.setOnClickListener {
-            val intent = Intent(this, StadiumsActivity::class.java)
+            val intent = Intent(this, StadiumAdapter::class.java)
             startActivity(intent)
         }
 

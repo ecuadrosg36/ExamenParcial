@@ -35,7 +35,7 @@
         <!-- MenuActivity declaration -->
         <activity android:name=".TeamsActivity" android:theme="@style/Theme.ExamenParcial" />
         <!-- MenuActivity declaration -->
-        <activity android:name=".StadiumsActivity" android:theme="@style/Theme.ExamenParcial" />
+        <activity android:name=".StadiumAdapter" android:theme="@style/Theme.ExamenParcial" />
 
     </application>
 
